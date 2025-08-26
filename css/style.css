@@ -39,6 +39,8 @@ div.bloco2{
     padding: 10px;
     margin: 20px 150px;
     box-shadow: 10px 10px 0px 10px rgb(41, 6, 26);
+    border-radius: 10px;
+    float: right;
 }
 
 div.bloco:hover{
