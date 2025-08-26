@@ -1,0 +1,47 @@
+*{
+    padding: 0;	  
+    margin: 0;    
+    box-sizing: 0;
+    color: rgb(41, 16, 20);
+    background-color: rgb(207, 130, 143);
+	}
+
+.texto{
+    background-color: rgb(236, 156, 183);
+
+    /*border: 5px solid rgb(69, 6, 78);*/
+
+    border: 10px;
+    border-style: double;
+    border-color: rgb(88, 18, 59);
+    padding: 20px;
+    margin: 5px 10px;
+    box-shadow: 0px 10px rgb(41, 6, 26);
+    border-radius: 10px;
+}
+
+div.bloco{
+    width: 500px;
+    height: 100;
+    background-color: rgb(112, 76, 88);
+    padding: 10px;
+    margin: 10px 250px;
+    box-shadow: -10px 10px 0 10px rgb(41, 6, 26);
+    border-radius: 10px;
+    border-style: double;
+    
+}
+
+div.bloco2{
+    width: 500px;
+    height: 100;
+    background-color: rgb(155, 114, 123);
+    padding: 10px;
+    margin: 20px 150px;
+    box-shadow: 10px 10px 0px 10px rgb(41, 6, 26);
+}
+
+div.bloco:hover{
+    width: 500px;
+    height: 100px;
+}
